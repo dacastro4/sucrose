@@ -1,0 +1,11 @@
+{
+    "name": "agileelement/sucrose",
+    "description": "A Laravel Model helper for connecting to SugarCRM/SuiteCRM tables.",
+    "authors": [
+        {
+            "name": "Matt Watson",
+            "email": "matt.watson@agileelement.com"
+        }
+    ],
+    "require": {}
+}
