@@ -7,5 +7,10 @@
             "email": "matt.watson@agileelement.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Sucrose\\": "src/"
+        }
+    },
 }
